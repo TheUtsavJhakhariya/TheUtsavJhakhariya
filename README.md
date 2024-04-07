@@ -10,7 +10,7 @@
 
 🚀 I'm experienced in both front-end and back-end development, with proficiency in technologies like JavaScript, React.js, Node.js, and MongoDB.
 
-## Skills
+## Skills 
 
 👨‍💻 *Programming Languages:* JavaScript, Python, Java, PHP, SQL, C++
 
