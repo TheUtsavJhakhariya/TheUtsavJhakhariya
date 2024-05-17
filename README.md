@@ -8,7 +8,7 @@
  
 💼 Previously, I've worked as a Front-end Developer at Total Derma Inc., where I contributed to creating efficient and user-centric interfaces using React.js. 
 
-🚀 I'm experienced in both front-end and back-end development, with proficiency in technologies like JavaScript, React.js, Node.js, and MongoDB.
+🚀 I'm experienced in both front-end and back-end development, with proficiency in technologies like JavaScript, React.js, Node.js, and MongoDB. 
 
 ## Skills
 
