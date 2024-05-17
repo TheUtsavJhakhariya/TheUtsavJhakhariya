@@ -1,6 +1,6 @@
 # Utsav Jhakhariya | Web Developer
 
-👋 Hello, I'm Utsav, a passionate Web Developer from Canada. 
+👋 Hello, I'm Utsav, a passionate Web Developer from Canada.  
 
 ## About Me 
 
