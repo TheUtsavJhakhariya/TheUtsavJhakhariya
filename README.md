@@ -3,7 +3,7 @@
 👋 Hello, I'm Utsav, a passionate Web Developer from Canada.
 
 ## About Me
- 
+  
 🎓 I'm currently pursuing a Postgraduate Degree in Web Development at Conestoga College, Kitchener, CA.   
  
 💼 Previously, I've worked as a Front-end Developer at Total Derma Inc., where I contributed to creating efficient and user-centric interfaces using React.js. 
