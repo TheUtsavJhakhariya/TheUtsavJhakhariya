@@ -20,7 +20,7 @@
 
 🗃 *Database Management:* MySQL, MongoDB, Firebase
 
-👥 *Version Control and Collaboration:* GitHub, Gitlab, Agile Methodology, Scrum
+👥 *Version Control and Collaboration:* GitHub, Gitlab, Agile Methodology, Scrum 
 
 🚀 *Performance Optimization:* Code Splitting, Lazy loading, Cross-Browser Testing, Webpack
 
